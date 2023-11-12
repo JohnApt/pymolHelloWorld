@@ -1,1 +1,0 @@
-# Modified axes code based off script from: https://pymolwiki.org/index.php/Axes.
